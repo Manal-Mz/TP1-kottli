@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TP1</string>
+    <string name="text_hello">Bonjour tout le monde</string>
+    <string name="cliquez_moi">Cliquez moi</string>
+    <string name="c_est_votre_photo_de_profile">C\'est votre photo de profile</string>
+    <string name="image_description">C\'est votre photo de profile</string>
+</resources>
