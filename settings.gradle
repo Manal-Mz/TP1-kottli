@@ -1,3 +1,4 @@
 rootProject.name = "TP1"
 include ':app'
 include ':activities'
+include ':neighbors'

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">neighbors</string>
+    <string name="dialog_title">Confirmation</string>
+    <string name="oui">YES</string>
+    <string name="non">no</string>
+</resources>
