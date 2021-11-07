@@ -1,4 +1,4 @@
-package com.gmail.mmazouzi.neighbors.adapters
+package com.estia.neighbors.fragments.adapters
 
 import android.view.LayoutInflater
 import android.view.View
@@ -10,7 +10,7 @@ import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
 import com.bumptech.glide.request.RequestOptions
 import com.gmail.mmazouzi.neighbors.R
-import com.gmail.mmazouzi.neighbors.models.Neighbor
+import com.estia.neighbors.fragments.models.Neighbor
 class ListNeighborsAdapter(
     items: List<Neighbor>,
     private val handler: ListNeighborHandler

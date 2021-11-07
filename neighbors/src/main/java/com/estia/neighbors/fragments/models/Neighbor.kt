@@ -1,4 +1,4 @@
-package com.gmail.mmazouzi.neighbors.models
+package com.estia.neighbors.fragments.models
 
 data class Neighbor(
     val id: Long,

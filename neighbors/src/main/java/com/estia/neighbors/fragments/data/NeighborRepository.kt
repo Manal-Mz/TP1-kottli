@@ -1,8 +1,8 @@
-package com.gmail.mmazouzi.neighbors.data
+package com.estia.neighbors.fragments.data
 
-import com.gmail.mmazouzi.neighbors.data.service.DummyNeighborApiService
-import com.gmail.mmazouzi.neighbors.data.service.NeighborApiService
-import com.gmail.mmazouzi.neighbors.models.Neighbor
+import com.estia.neighbors.fragments.data.service.DummyNeighborApiService
+import com.estia.neighbors.fragments.data.service.NeighborApiService
+import com.estia.neighbors.fragments.models.Neighbor
 
 class NeighborRepository {
     private val apiService: NeighborApiService

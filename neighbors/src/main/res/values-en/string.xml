@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">neighbors</string>
     <string name="dialog_title">Confirmation</string>
@@ -15,6 +16,6 @@
     <string name="photo_profil">Photo de profil</string>
     <string name="add_neighbor">Add neighbor</string>
     <string name="photo_de_profil">photo de profil</string>
-    <string name="add_neighbour_toolbar_name">ajouter un voisin</string>
-    <string name="list_neighbor_toolbar_name">liste des voisins</string>
+    <string name="add_neighbour_toolbar_name">add a neighbour</string>
+    <string name="list_neighbor_toolbar_name">List of neighbours</string>
 </resources>

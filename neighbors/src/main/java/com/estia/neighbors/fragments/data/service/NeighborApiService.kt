@@ -1,6 +1,6 @@
-package com.gmail.mmazouzi.neighbors.data.service
+package com.estia.neighbors.fragments.data.service
 
-import com.gmail.mmazouzi.neighbors.models.Neighbor
+import com.estia.neighbors.fragments.models.Neighbor
 
 interface NeighborApiService {
     /**
